@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.nav-1{
+	width: 100%;
+	color: white;
+	background: blue;
+	padding: 30px;
+	border:5px solid blue;
+}
+.nav-2{
+	color: white;
+	font-size: 30px;
+	margin: 20px;
+	text-decoration: none;
+}
+#img1{
+	width: 400px;
+	height: 400px;
+}
